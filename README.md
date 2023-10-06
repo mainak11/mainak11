@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mainak</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Passionate about data</h3>
 
 - 🌱 I’m currently learning **Everything regarding AI**
 

@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mainak</h1>
-<h3 align="center">Passionate about data</h3>
+<h3 align="center">AI Engineer</h3>
 
 - 🌱 I’m currently learning **Everything regarding AI**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/mainakportfolio](https://sites.google.com/view/mainakportfolio)
-
 - 📫 How to reach me **mainakmaity1999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DfNkmJiG_HgCRO554xzGd1g6mndmp3ua/view?usp=drivesdk](https://drive.google.com/file/d/1DfNkmJiG_HgCRO554xzGd1g6mndmp3ua/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
